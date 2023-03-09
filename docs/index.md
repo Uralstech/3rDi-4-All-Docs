@@ -4,7 +4,7 @@ With turn-by-turn indication between points of interests, this is a mobility app
 
 **This is documentation for scanning/path creation of areas for enabling the app.
 3rDi 4 All is still in development, and there certainly will be changes to how systems work in the app. Therefore, scans/paths created with
-the help of one version of the app will not work with a newer version. If you find any issues with the app or documentation or have a feature request, please post it here: https://github.com/Uralstech/3rDi-4-All-Docs/issues**
+the help of one version of the app will not work with a newer version. If you find any issues with the app or documentation or have a feature request, please post it [*here!*](https://github.com/Uralstech/3rDi-4-All-Docs/issues)**
 
 ## Scanning/mapping an area for the first time
 <img src="./graphics/IMG1.png"  width="360" height="740">
